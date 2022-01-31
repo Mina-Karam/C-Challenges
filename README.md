@@ -1,5 +1,5 @@
 # C-Challenges :sunglasses:
-Collection of C Programming challenges in Details
+Collection of C Programming challenges in Details.
 
 - - - -
 
